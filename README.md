@@ -109,19 +109,6 @@ Stonepedia/
 
 ---
 
-## Screenshots
-
-**Homepage Banner:**
-![Hero Section](https://via.placeholder.com/800x400)
-
-**Products Section:**
-![Products](https://via.placeholder.com/800x400)
-
-**Footer:**
-![Footer](https://via.placeholder.com/800x400)
-
----
-
 ## Contributing
 We welcome contributions! If you'd like to enhance the project:
 
